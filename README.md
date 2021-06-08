@@ -7,7 +7,7 @@
 # command  python -m venv <your env name>
 
 
-# you need to install all project dependeny using requirments.txt file
+# you need to install all project dependencies using requirments.txt file
 
 # pip install -r requirments.txt
 
